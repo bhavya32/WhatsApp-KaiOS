@@ -1,0 +1,1 @@
+"use strict";(self.webpackJsonp=self.webpackJsonp||[]).push([[82],{695:function(e,s,l){l.r(s);var t=l(88),a=l(22),r=l(12);s.default=(0,t.c)().finalStep("createMissedCallLog",e=>{var s=e.key,l=e.ts;return(0,a.h)(s,l).then(e=>{(0,r.c)("event","callMissed",{peerJid:s.peer,id:e.id})}).then(a.Z).then(e=>{(0,r.c)("event","callLogsUpdated",{logs:e})})}).end()}}]);

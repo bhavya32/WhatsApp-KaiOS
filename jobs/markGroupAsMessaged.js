@@ -1,0 +1,1 @@
+"use strict";(self.webpackJsonp=self.webpackJsonp||[]).push([[101],{663:function(e,s,a){a.r(s);var n=a(22),t=a(88),c=a(12);s.default=(0,t.c)().finalStep("markGroupAsMessaged",e=>{var s=e.chatId,a=e.groupJid;n.Db(s,a).then(e=>{null!=e&&(0,c.c)("event","msgsReceived",{newMsgs:[],changedMsgs:[],affectedChats:[e]})})}).end()}}]);

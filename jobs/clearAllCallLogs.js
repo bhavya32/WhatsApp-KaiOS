@@ -1,0 +1,1 @@
+"use strict";(self.webpackJsonp=self.webpackJsonp||[]).push([[79],{698:function(l,e,s){s.r(e);var a=s(88),t=s(22),c=s(12);e.default=(0,a.c)().finalStep("clearAllCallLogs",()=>(0,t.f)().then(t.Z).then(l=>{(0,c.c)("event","callLogsUpdated",{logs:l})})).end()}}]);

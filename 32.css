@@ -1,0 +1,2 @@
+.RD{color:var(--Ar)}[dir] .RD{background-color:var(--As)}
+.TH{min-height:100%}[dir] .TH{background:var(--C)}.TI{display:flex;align-items:center}[dir] .TI{background:#e2f2ef;padding:12px}.TJ{fill:#65b4ab;flex:none}[dir=ltr] .TJ{margin-right:12px}[dir=rtl] .TJ{margin-left:12px}.TJ>svg{width:var(--U)}.TK{flex:auto}[dir] .TL{padding:12px}[dir] .TM,[dir] .TN{margin-bottom:12px}[dir] .TN:last-child{margin-bottom:0}[dir] .TO{border-top:1px solid var(--M);padding-top:12px}

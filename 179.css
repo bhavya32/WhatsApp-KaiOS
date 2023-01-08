@@ -1,0 +1,1 @@
+.XF{--d:10px;display:flex;flex-direction:column}[dir] .XG{padding:var(--d)}[dir=ltr] .XH{border-left:5px solid var(--c);padding-left:calc(var(--d) - 5px)}[dir=rtl] .XH{border-right:5px solid var(--c);padding-right:calc(var(--d) - 5px)}.XI{}[dir] .XI{border-bottom:1px solid var(--e)}.XJ{color:var(--R)}

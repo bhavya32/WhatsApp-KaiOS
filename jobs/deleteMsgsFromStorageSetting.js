@@ -1,0 +1,1 @@
+"use strict";(self.webpackJsonp=self.webpackJsonp||[]).push([[89],{675:function(e,r,t){t.r(r);var s=t(88),a=t(22);r.default=(0,s.c)().finalStep("deleteMsgsFromStorageSetting",e=>{var r=e.msgIds;return(0,a.n)(r,"user_action").then(e=>{var r=e.deletedMediaStats;WAM.log("regular",2350,void 0,[5,0,r.size,6,0,r.numFiles])})}).end()}}]);

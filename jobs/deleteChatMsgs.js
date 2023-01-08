@@ -1,0 +1,1 @@
+"use strict";(self.webpackJsonp=self.webpackJsonp||[]).push([[85],{674:function(e,s,t){t.r(s);var r=t(88),a=t(22);s.default=(0,r.c)().finalStep("deleteChatMsgs",e=>{var s=e.chatId,t=e.msgIds;return(0,a.m)(s,t,"user_action")}).end()}}]);
